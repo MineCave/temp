@@ -1,0 +1,1 @@
+Main-Class: home.theo.Desktop.Java_Stuff.test.src.main.java.com.intel.test.Plugin
